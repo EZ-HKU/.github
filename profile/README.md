@@ -22,7 +22,7 @@
 
 - 🤝 I’m looking for help with **EZ-HKU toolkit**
 
-- 📫 How to reach me **reg@skyrain.link**
+- 📫 How to reach us **icu@hku.icu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

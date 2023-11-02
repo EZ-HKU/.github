@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **EZ-HKU toolkit**
 
-- 🌱 I’m currently learning **COMP2119 QAQ**
+- 🌱 I’m currently learning **COMP2119 QAQ and COMP3230 :(**
 
 - 👯 I’m looking to collaborate on **EZ-HKU toolkit**
 

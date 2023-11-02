@@ -14,13 +14,9 @@
 <h1 align="center">Hi 👋, it's EZ Team</h1>
 <h3 align="center">Committed to enhancing the daily experience of HKU students</h3>
 
-- 🔭 I’m currently working on **EZ-HKU toolkit**
+- 🔭 We're currently working on **EZ-HKU toolkit**
 
-- 🌱 I’m currently learning **COMP2119 QAQ and COMP3230 :(**
-
-- 👯 I’m looking to collaborate on **EZ-HKU toolkit**
-
-- 🤝 I’m looking for help with **EZ-HKU toolkit**
+- 🌱 We're currently learning **COMP2119 QAQ and COMP3230 :(**
 
 - 📫 How to reach us **icu@hku.icu**
 

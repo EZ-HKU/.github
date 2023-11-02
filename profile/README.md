@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, it's EZ Team</h1>
-<h3 align="center">I SEE YOU, 我看见你</h3>
+<h3 align="center">HKU, I SEE YOU</h3>
 
 - 🔭 We're currently working on **EZ-HKU toolkit**
 

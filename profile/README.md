@@ -12,7 +12,7 @@
 -->
 
 <h1 align="center">Hi 👋, it's EZ Team</h1>
-<h3 align="center">Committed to enhancing the daily experience of HKU students</h3>
+<h3 align="center">I see you</h3>
 
 - 🔭 We're currently working on **EZ-HKU toolkit**
 
